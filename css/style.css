@@ -1,0 +1,17 @@
+.moldura {
+  background-color: #95a5a6;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.bg-footer {
+  background-color: #5f6a6a;
+  padding: 10px;
+  font-size: 20px;
+  color: #f4f6f7;
+}
